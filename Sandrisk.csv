@@ -1,0 +1,104 @@
+Well,Platform,Sand Risk,"WHFP
+(bars)",Date of last survey,Last sand level,Sand control,"ClampOn
+Survey
+Frequency",Delay survey (days),Next Survey Date,Velocity,Choke Type,"Top Perfo Depth
+(mSS)",Current Qgas (MMscfd),DP Ratio
+TN-AA334,GTSAA,Critical,84,25-Dec-23,Sand Free,SCON SandTrap AB,1 week,5,1-Jan-24,,,1636,2.7,3
+TN-S194,GTSS,Critical,48,29-Dec-23,Sand Free,SCON SacTi,1 week,1,5-Jan-24,,Masterflo P3,965,0.5,4
+TN-S211,GTSS,Critical,80,29-Dec-23,Sand Free,HESS Screen,1 week,1,5-Jan-24,,Masterflo P3,1529,1.1,7
+TN-A184,GTSA,Critical,62,1-Jan-24,Sandy,TTCS 250 micron,1 week,0,8-Jan-24,,Masterflo P3,1687,0.4,5
+TN-A36,GTSA,Critical,14,30-Dec-23,Sand Free,NO,2 weeks,0,13-Jan-24,0.41,Vonk DV,2173,0.4,1
+TN-A472,GTSA,Critical,52,30-Dec-23,Sand Free,NO,2 week,0,13-Jan-24,,Masterflo P3,2169,1.6,4
+TN-AA207,GTSAA,Critical,56,3-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,10-Jan-24,,Masterflo P3,1340,1.9,3
+TN-AA221,GTSAA,Critical,33,26-Dec-23,Sand Free,OH-SAS,1 week,0,2-Jan-24,,Masterflo P3,1249,1.2,2
+TN-AA226,GTSS,Critical,100,31-Dec-23,Sand Free,SCON SandTrap AB,1 week,0,7-Jan-24,,Masterflo P3,1721,2.1,8
+TN-AA239,GTSAA,Critical,54,2-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,9-Jan-24,,Masterflo P3,1142,0.5,4
+TN-AA252,GTSAA,Critical,100,3-Jan-24,Sand Free,HESS Screen,1 week,0,10-Jan-24,,,1548,1.6,7
+TN-AA256,GTSAA,Critical,90,3-Jan-24,Sand Free,SCON SacTi,1 week,0,10-Jan-24,,,1132,1.7,7
+TN-AA257,GTSAA,Critical,85,3-Jan-24,Sand Free,SCON SacTi,1 week,0,10-Jan-24,,,1772,1,7
+TN-AA323,GTSAA,Critical,104,2-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,9-Jan-24,,,1234,2.6,6
+TN-AA361,GTSAA,Critical,88,2-Jan-24,Sand Free,HESS Screen,1 week,0,9-Jan-24,,,1165,1.8,5
+TN-AA373,GTSAA,Critical,60,2-Jan-24,Sand Free,HESS Screen,1 week,0,9-Jan-24,,Masterflo P3,1322,0,3
+TN-AA391,GTSS,Critical,75,2-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,9-Jan-24,,Masterflo P3,1080,2.6,4
+TN-AA392,GTSAA,Critical,39,2-Jan-24,Sand Free,TTCS 250 micron,2 weeks,0,16-Jan-24,,Masterflo P3,1386,0,2
+TN-AA394,GTSAA,Critical,43,3-Jan-24,Sand Free,HESS Screen,1 week,0,10-Jan-24,,Masterflo P3,1447,1.1,2
+TN-AA657,GTSAA,Critical,80,4-Jan-24,Sand Free,SCON ST225/359,1 week,0,11-Jan-24,,,1665,2.1,4
+TN-AA658,GTSAA,Critical,68,4-Jan-24,Sand Free,SCON SacTi,1 week,0,11-Jan-24,,,1789,2.7,3
+TN-AA651,GTSAA,Critical,80,2-Jan-24,Sand Free,HESS Screen,1 week,0,9-Jan-24,,,1320,1.8,4
+TN-B174,GTSB,Critical,21,1-Jan-24,Sand Free,Screen Filtrex,2 weeks,0,15-Jan-24,,Masterflo P3,1169,0.5,2
+TN-B178,GTSB,Critical,60,31-Dec-23,Sand Free,Sand trap ABC,1 week,0,7-Jan-24,,Masterflo P3,1091,1.6,5
+TN-B183,GTSB,Critical,75,31-Dec-23,Sand Free,SCON SacTi,1 week,0,7-Jan-24,,,1413,1.5,6
+TN-B185,GTSB,Critical,40,31-Dec-23,Sand Free,SCON SacTi,1 week,0,7-Jan-24,,,1525,1.6,3
+TN-B81,GTSB,Critical,29,4-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,11-Jan-24,0,Vonk Non DV,818,0,2
+TN-C446,GTSC,Critical,93,31-Dec-23,Sand Free,NO,1 week,0,7-Jan-24,1.17,Vonk Non DV,2339,1.2,7
+TN-F30,GTSF,Critical,12,29-Dec-23,Sand Free,NO,2 weeks,0,12-Jan-24,0,Vonk,2211,0,1
+TN-Fx129,GTSFx,Critical,70,itu psi,Sand Free,NO,1 week,0,9-Jan-24,0.15,Cameron Fixed,2555,0.2,6
+TN-Gx158,GTSGx,Critical,52,27-Dec-23,Sand Free,HESS Screen,1 week,0,24-Jan-24,0.98,Cameron Plug & Cage CC40,1575,0.9,5
+TN-S245,GTSS,Critical,82,5-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,12-Jan-24,,,1582,1.1,7
+TN-S247,GTSS,Critical,30,5-Jan-24,Sand Free,HESS Screen 250 micron,1 week,0,12-Jan-24,,,1694,0.5,3
+TN-S182,GTSS,Critical,28,31-Dec-23,Sand Free,PO Screen - HESS,1 week,0,7-Jan-24,,Masterflo P3,412,0.4,2
+TN-S189,GTSS,Critical,27,31-Dec-23,Sand Free,HESS Screen,1 week,0,7-Jan-24,,Masterflo P3,737,0.9,2
+TN-S190,GTSS,Critical,21,31-Dec-23,Sand Free,SCON,2 weeks,0,14-Jan-24,,Masterflo P3,1217,0,2
+TN-S214,GTSS,Critical,20,4-Jan-24,Sand Free,HESS Screen,2 weeks,0,18-Jan-24,,Masterflo P3,784,0.5,2
+TN-F351,GTSF,Critical,64,5-Jan-24,Sand Free,SCON SandTrap AB ,1 week,0,12-Jan-24,,,,1.9,5
+TN-F352,GTSF,Critical,76,5-Jan-24,Sand Free,SCON SandTrap AB ,1 week,0,12-Jan-24,,,,2,5
+TN-F354,GTSF,Critical,82,5-Jan-24,Sand Free,SCON SacTi,1 week,0,12-Jan-24,,,1215,2,6
+TN-S30,GTSS,Critical,13,4-Jan-24,Sand Free,NO,2 weeks,0,18-Jan-24,,Cameron Fixed,2627,0,1
+TN-T94,GTST,Critical,19,2-Jan-24,Sand Free,Ceramic Pack-off,1 week,0,9-Jan-24,,Masterflo P3,1181,0,
+TN-X34,GTSX,Critical,50,4-Jan-24,Sand Free,SCON SandTrap AB,1 week,0,11-Jan-24,,Masterflo P3,1174,0,
+TN-A167,GTSA,Critical,41,30-Dec-23,Sand Free,SCON,1 week,0,6-Jan-24,,Masterflo P3,998,0.9,3
+TN-A171,GTSA,Critical,36,30-Dec-23,Sand Free,SCON SandTrap AB,1 week,0,6-Jan-24,,Masterflo P3,1575,0.7,3
+TN-F311,GTSF,Critical,55,30-Dec-23,Sand Free,SCON Sandtrap,1 week,0,6-Jan-24,,,1282,1.1,4
+TN-F331,GTSF,Critical,85,30-Dec-23,Sand Free,SCON SacTi,1 week,0,6-Jan-24,,,1853,2.3,7
+TN-G59,GTSG,Critical,33,30-Dec-23,Sand Free,NO,1 week,0,6-Jan-24,1.39,Cameron Fixed,2499,1.3,3
+TN-S177,GTSS,Critical,24,30-Dec-23,Sand Free,HESS Screen,1 week,0,6-Jan-24,,Vonk Non DV,996,1.6,2
+TN-A34,GTSA,Critical,4.1,,,SCON,1 week,,Not yet survey,0,Cameron Fixed,2726,0,
+TN-A51,GTSA,Critical,62,,,SCON,1 week,,Not yet survey,0,Vonk DV,2462,0,
+TN-A92,GTSA,Critical,12,,,SCON,1 week,,Not yet survey,0,Vonk,1248,0,
+TN-AA184,GTSAA,Critical,0,,,Geoform,1 week,,Not yet survey,0,Vonk,779,0,
+TN-AA53,GTSAA,Critical,0,,,SCON,1 week,,Not yet survey,0,Cameron Fixed,1143,0,
+TN-F333 ,GTSF,Critical,,,,HESS Screen 175 micron,1 week,,Not yet survey,,,,0,
+TN-Ax47,GTSAx,Critical,176,,,NO,1 week,,Not yet survey,0,Cameron Fixed,2813,0,
+TN-B11,GTSB,Critical,12,,,NO,1 week,,Not yet survey,0,Vonk,2875,0,
+TN-C125,GTSC,Critical,25,,,NO,1 week,,Not yet survey,0,Cameron Fixed,2545,0,
+TN-C13,GTSC,Critical,99,,,SCON,1 week,,Not yet survey,0,Cameron Plug & Cage CC40,1490,0,
+TN-C25,GTSC,Critical,6,,,SCON,1 week,,Not yet survey,0,Vonk DV,1695,0,
+TN-C5,GTSC,Critical,92,,,M.Screen,1 week,,Not yet survey,0,Cameron Fixed,1160,0,
+TN-C52,GTSC,Critical,0,,,SCON,1 week,,Not yet survey,0,44550,960,0,
+TN-F1,GTSF,Critical,0,,,Screen Patch,1 week,,Not yet survey,0,Vonk,2534,0,
+TN-F2,GTSF,Critical,60.6,,,Screen Patch,1 week,,Not yet survey,0,Cameron Fixed,2345,0,
+TN-G2,GTSG,Critical,0,,,SCON,1 week,,Not yet survey,0,FMC,1524,0,
+TN-Gx51,GTSGx,Critical,11,,,Hanging Screen,1 week,,Not yet survey,0,Vonk,1152,0,
+TN-S22,GTSS,Critical,137,,,NO,1 week,,Not yet survey,,Cameron Fixed,2515,0,
+TN-S46,GTSS,Critical,150,,,NO,1 week,,Not yet survey,,44550,2640,0,
+TN-S70,GTSS,Critical,21,,,SCON,1 week,,Not yet survey,,Vonk DV,1128,0,
+TN-S71,GTSS,Critical,60,,,SCON,1 week,,Not yet survey,,Vonk DV,1072,0,
+TN-T82,GTST,Critical,76.5,,,SCON,1 week,,Not yet survey,,Vonk,1015,0,
+TN-A113,GTSA,Critical,20,6-Feb-19,Sand Free,Propant + Screen,1 week,0,13-Feb-19,0,Cameron Plug & Cage CC40,2076,0,
+TN-A142,GTSA,Critical,140,28-Oct-20,Sand Free,NO,1 week,0,4-Nov-20,0,Vonk Non DV,2833,0,
+TN-A160,GTSA,Critical,144.6,22-Nov-23,Sand Free,GP,1 week,0,29-Nov-23,0,Vonk Non DV,2247,0,
+TN-A165,GTSA,Critical,0,6-Dec-23,Sand Free,HESS Screen,1 week,0,13-Dec-23,,Masterflo P3,1396,0,
+TN-A173,GTSA,Critical,160,11-Jan-20,Sand Free,PO Screen,1 week,0,18-Jan-20,,Masterflo P3,942,0,
+TN-A174,GTSA,Critical,10,3-Sep-21,Sand Free,SCON,1 week,0,10-Sep-21,,Masterflo P3,1285,0,
+TN-A185,GTSA,Critical,40,18-Aug-23,Sand Free,SCON,1 week,0,25-Aug-23,,Masterflo P3,1319,0,
+TN-A23,GTSA,Critical,16,29-Apr-22,Sand Free,Hanging Screen,1 week,0,6-May-22,0,Vonk,992,0,
+TN-A416,GTSA,Critical,50,23-Nov-23,Sand Free,NO,1 week,0,30-Nov-23,0,Masterflo P3,2383,0,
+TN-A56,GTSA,Critical,105.4,4-Aug-19,Sand Free,NO,1 week,0,11-Aug-19,0,Vonk Non DV,2000,0,
+TN-A93,GTSA,Critical,0,5-Mar-19,Sand Free,OH-SAS,1 week,0,12-Mar-19,0,Vonk DV,1345,0,
+TN-AA185B.T1,GTSAA,Critical,67,21-Jul-20,Sand Free,CH-Ceramic Screen,1 week,0,28-Jul-20,0,Vonk,1184,0,
+TN-AA205,GTSAA,Critical,0,2-Aug-18,,SCON,1 week,0,9-Aug-18,,Vonk,802,0,
+TN-AA208,GTSAA,Critical,11.5,4-Dec-23,Sand Free,SCON SandTrap AB,1 week,0,11-Dec-23,,Masterflo P3,1139,0,
+TN-AA209,GTSAA,Critical,74,7-Apr-20,Sand Free,SCON,1 week,0,14-Apr-20,0,Masterflo P3,972,0,
+TN-AA210,GTSAA,Critical,45,29-Apr-20,Sand Free,SCON,1 week,0,6-May-20,0,Masterflo P3,719,0,
+TN-AA219,GTSAA,Critical,56,22-Sep-21,Sand Free,SCON SC3,1 week,0,29-Sep-21,,Masterflo P3,879,0,
+TN-AA220,GTSAA,Critical,13,7-Aug-23,Sand Free,HESS Screen,1 week,0,14-Aug-23,,Masterflo P3,1056,0,
+TN-AA223,GTSS,Critical,13,23-Nov-23,Sand Free,SCON ,1 week,0,30-Nov-23,,Masterflo P3,1156,0,
+TN-AA225,GTSS,Critical,81,7-Jan-23,Sand Free,SCON ,1 week,0,14-Jan-23,,Masterflo P3,1776,0,
+TN-AA227,GTSS,Critical,63,30-Nov-22,Sand Free,SCON ,1 week,0,7-Dec-22,,Masterflo P3,1190,0,
+TN-AA228,GTSS,Critical,101,24-Feb-23,Sand Free,SCON ,1 week,0,3-Mar-23,,Masterflo P3,1729,0,
+TN-AA235,GTSAA,Critical,76,26-Dec-22,Sandy,SCON,1 week,0,2-Jan-23,,Masterflo P3,1551,0,
+TN-AA236,GTSAA,Critical,0,24-Dec-23,Sand Free,Filtrex,1 week,0,31-Dec-23,,Masterflo P3,1110,0,
+TN-AA237,GTS-AA,Critical,96,7-Jul-22,Sand Free,SCON,1 week,0,14-Jul-22,,Masterflo P3,1031,0,
+TN-AA238,GTSAA,Critical,83,27-Jun-23,Sand Free,SCON SacTi,1 week,0,4-Jul-23,,Masterflo P3,1059,0,
+TN-AA240,GTSAA,Critical,17,25-Dec-23,Sand Free,PO Screen,1 week,0,1-Jan-24,,Masterflo P3,807,0,
+TN-AA311,GTSAA,Critical,92,1-Apr-22,Sand Free,SCON,1 week,0,8-Apr-22,,,2057,0,
